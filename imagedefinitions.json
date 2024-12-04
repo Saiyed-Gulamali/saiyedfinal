@@ -1,0 +1,6 @@
+[
+  {
+    "name": "MyAppContainer",
+    "imageUri": "008971637333.dkr.ecr.ca-central-1.amazonaws.com/saiyed-repo:latest"
+  }
+]
